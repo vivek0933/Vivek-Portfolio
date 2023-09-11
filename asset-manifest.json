@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Vivek-Portfolio/static/css/main.5affaddd.css",
+    "main.js": "/Vivek-Portfolio/static/js/main.d4deb0d2.js",
+    "static/media/image.png": "/Vivek-Portfolio/static/media/image.00cdf3615da8d4c54ace.png",
+    "static/media/vivekCv.pdf": "/Vivek-Portfolio/static/media/vivekCv.298a25e4ba844ccc3a62.pdf",
+    "static/media/fooddy1.jpeg": "/Vivek-Portfolio/static/media/fooddy1.80998f365a3185f4100d.jpeg",
+    "static/media/offshore.png": "/Vivek-Portfolio/static/media/offshore.6c17722bd201aab2acd6.png",
+    "static/media/fooddy3.jpeg": "/Vivek-Portfolio/static/media/fooddy3.2c15bc184360103a000b.jpeg",
+    "static/media/skyvue2.jpeg": "/Vivek-Portfolio/static/media/skyvue2.33d3dbd5d851d9941fcb.jpeg",
+    "static/media/fooddy2.jpeg": "/Vivek-Portfolio/static/media/fooddy2.4559455de2dee2c96be4.jpeg",
+    "static/media/skyvue.jpeg": "/Vivek-Portfolio/static/media/skyvue.91f7e0a83f05b6c18997.jpeg",
+    "static/media/gitlogo.png": "/Vivek-Portfolio/static/media/gitlogo.9e094d235b4caa7c31fc.png",
+    "static/media/skyvue4.jpeg": "/Vivek-Portfolio/static/media/skyvue4.85ab365470df8226a53d.jpeg",
+    "static/media/skyvue3.jpeg": "/Vivek-Portfolio/static/media/skyvue3.23a3f0a48aa02e01cdd4.jpeg",
+    "static/media/saer.png": "/Vivek-Portfolio/static/media/saer.26ade81a08b965e0f508.png",
+    "static/media/cv.jpg": "/Vivek-Portfolio/static/media/cv.2422d64a5af0675e131f.jpg",
+    "static/media/ui-design.png": "/Vivek-Portfolio/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "static/media/instagram.png": "/Vivek-Portfolio/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/Vivek-Portfolio/index.html",
+    "main.5affaddd.css.map": "/Vivek-Portfolio/static/css/main.5affaddd.css.map",
+    "main.d4deb0d2.js.map": "/Vivek-Portfolio/static/js/main.d4deb0d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5affaddd.css",
+    "static/js/main.d4deb0d2.js"
+  ]
+}
