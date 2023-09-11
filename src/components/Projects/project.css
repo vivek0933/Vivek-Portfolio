@@ -1,0 +1,238 @@
+#projects{
+        overflow: hidden;
+        width: 100vh;
+        max-width: 50rem;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        margin: 0 auto;
+        margin-top: 1.2rem;
+        
+}
+
+.overview{
+    flex: 1;
+}
+
+.overview>h1{
+    margin-bottom: 1rem;
+    font-size: 3rem;
+    font-weight: 600;
+}
+
+.overview>p{
+    font-weight: 400;
+    font-size: 0.9rem;
+}
+
+.allProjects{
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.pro>h2{
+    
+    font-size: 1.6rem;
+    font-weight: 600;
+}
+
+.pro{
+    flex: 1;
+}
+.pro1{
+    margin-right: 3rem;
+}
+.pro2{
+    margin-left: 3rem;
+}
+
+.pro img {
+    max-width: 50vw;
+    max-height: 45vh;
+    border: none;
+    border-radius: 2rem;
+    margin-bottom: 0.5rem;
+    margin-top: 1rem;
+}
+
+.pro>p{
+    max-width: 20rem;
+    /* margin-bottom: .75rem; */
+    font-weight: 400;
+    font-size: 0.9rem;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.pro>h2{
+    margin-bottom: .5rem;
+}
+
+
+
+.pro>button{
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    width: 12rem;
+    height: 2.3rem;
+    border: none;
+    background: white;
+    /* margin-bottom: 0.5rem; */
+    margin-top: 0.5rem;
+    border-radius: 2rem;
+    font-size: small;
+}
+
+@media screen and (max-width:840px) {
+    .allProjects{
+        flex-direction: column;
+    }
+    .pro1{
+        margin-right: 0rem;
+    }
+    .pro2{
+        margin-left: 0rem;
+    }
+    #projects{
+        max-width: 690px;
+    }
+    /* .overview{
+        max-width: 38rem;
+    } */
+}
+
+@media screen and (max-width:800px) {
+    .allProjects{
+        flex-direction: column;
+    }
+    .pro1{
+        margin-right: 0rem;
+    }
+    .pro2{
+        margin-left: 0rem;
+    }
+    #projects{
+        max-width: 650px;
+    }
+    /* .overview{
+        max-width: 30rem;
+    } */
+}
+
+@media screen and (max-width:750px) {
+    .allProjects{
+        flex-direction: column;
+    }
+    .pro1{
+        margin-right: 0rem;
+    }
+    .pro2{
+        margin-left: 0rem;
+    }
+    #projects{
+        max-width: 600px;
+    }
+    /* .overview{
+        max-width: 30rem;
+    } */
+}
+
+@media screen and (max-width:700px) {
+    .allProjects{
+        flex-direction: column;
+    }
+    .pro1{
+        margin-right: 0rem;
+    }
+    .pro2{
+        margin-left: 0rem;
+    }
+    #projects{
+        max-width: 550px;
+    }
+    /* .overview{
+        max-width: 30rem;
+    } */
+}
+
+@media screen and (max-width:600px) {
+    .allProjects{
+        flex-direction: column;
+    }
+    .pro1{
+        margin-right: 0rem;
+    }
+    .pro2{
+        margin-left: 0rem;
+    }
+    #projects{
+        max-width: 450px;
+    }
+    /* .overview{
+        max-width: 30rem;
+    } */
+}
+
+@media screen and (max-width:450px) {
+    .allProjects{
+        flex-direction: column;
+    }
+    .pro1{
+        margin-right: 0rem;
+    }
+    .pro2{
+        margin-left: 0rem;
+    }
+    #projects{
+        max-width: 300px;
+    }
+    .overview>h1{
+        font-size: 10vw;
+        font-weight: 800;
+    }
+}
+
+@media screen and (max-width:420px) {
+    .allProjects{
+        flex-direction: column;
+    }
+    .pro1{
+        margin-right: 0rem;
+    }
+    .pro2{
+        margin-left: 0rem;
+    }
+    #projects{
+        max-width: 270px;
+    }
+
+}
+
+@media screen and (max-width:390px) {
+    .allProjects{
+        flex-direction: column;
+    }
+    .pro1{
+        margin-right: 0rem;
+    }
+    .pro2{
+        margin-left: 0rem;
+    }
+    #projects{
+        max-width: 240px;
+    }
+    .pro>p{
+        max-width: 20rem;
+        margin-bottom: .75rem;
+        font-weight: 500;
+        font-size: 3.2vw;
+    }
+    
+
+}
